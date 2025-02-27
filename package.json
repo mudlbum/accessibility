@@ -1,0 +1,20 @@
+{
+  "name": "a5-accessibility",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+    
+  },
+  "author": "",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "all": "^0.0.0"
+  }
+}
